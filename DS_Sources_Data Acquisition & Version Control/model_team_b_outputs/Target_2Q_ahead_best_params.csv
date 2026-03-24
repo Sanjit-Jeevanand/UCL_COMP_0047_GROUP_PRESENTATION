@@ -1,8 +1,8 @@
 ,mode,mean
 colsample_bytree,0.8,0.8
-learning_rate,0.05,0.06
-max_depth,2.0,2.3
-n_estimators,200.0,280.0
-reg_alpha,0.1,0.28
-reg_lambda,1.0,1.4
+learning_rate,0.1,0.0783
+max_depth,2.0,2.4333
+n_estimators,200.0,300.0
+reg_alpha,0.1,0.34
+reg_lambda,1.0,2.2
 subsample,0.8,0.8
